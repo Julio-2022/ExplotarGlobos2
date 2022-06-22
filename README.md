@@ -1,2 +1,1 @@
-# ExplotarGlobos2
-proyecto_15
+# ExplotarGlobos2-plantilla
